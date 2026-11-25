@@ -139,3 +139,5 @@ class ami extends Parents {
 	}
 let myassests = new ami();
 myassests.assests1();
+
+console.log(`hello github`);
